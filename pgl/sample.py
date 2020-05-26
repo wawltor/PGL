@@ -27,7 +27,7 @@ __all__ = [
     'metapath_randomwalk', 'pinsage_sample'
 ]
 
-
+# just for test
 def traverse(item):
     """traverse the list or numpy"""
     if isinstance(item, list) or isinstance(item, np.ndarray):
